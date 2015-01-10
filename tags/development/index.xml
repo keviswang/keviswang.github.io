@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Soul Coder</title>
+    <link>http://localhost:1313/tags/development/</link>
+    <description>Recent content in Development on Soul Coder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <author>Kevis Wang</author>
+    <copyright>Copyright (c) 2008 - 2014, Kevis Wang; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 08 Jan 2015 19:46:51 CST</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new</title>
+      <link>http://localhost:1313/post/new/</link>
+      <pubDate>Thu, 08 Jan 2015 19:46:51 CST</pubDate>
+      <author>Kevis Wang</author>
+      <guid>http://localhost:1313/post/new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
